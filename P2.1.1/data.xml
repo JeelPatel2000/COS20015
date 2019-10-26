@@ -1,0 +1,62 @@
+<readingList>
+    <book>
+        <title>Fifty Shades of Grey</title>
+        <author>E.L. James</author>
+        <bookRead read="yes">
+            <month>May</month>
+            <year>2016</year>
+        </bookRead>
+        <bookReview>
+            <purpose></purpose>
+            <opinion>Did not like very much</opinion>
+        </bookReview>
+    </book>
+    <book>
+        <title>The grass is singing</title>
+        <author>Doris Lessing</author>
+        <bookRead  read="yes">
+            <month>June</month>
+            <year>2016</year>
+        </bookRead>
+        <bookReview>
+            <purpose></purpose>
+            <opinion>Enjoyed it a quite bit</opinion>
+        </bookReview>
+    </book>
+    <book>
+        <title>A short history of nearly everything</title>
+        <author>Bill Bryson</author>
+        <bookRead  read="yes">
+            <month>July</month>
+            <year>2016</year>
+        </bookRead>
+        <bookReview>
+            <purpose></purpose>
+            <opinion>Very Informative</opinion>
+        </bookReview>
+    </book>
+    <book>
+        <title>JSON in 24 hours</title>
+        <author>Peter Settler</author>
+        <bookRead  read="no">
+            <month></month>
+            <year></year>
+        </bookRead>
+        <bookReview>
+            <purpose>For work</purpose>
+            <opinion></opinion>
+        </bookReview>
+    </book>
+    <book>
+        <title>Miss Smilla's feeling for snow</title>
+        <author>Peter Hoeg's</author>
+        <bookRead read="no">
+            <month></month>
+            <year></year>
+        </bookRead>
+        <bookReview>
+            <purpose>For entertainment</purpose>
+            <opinion></opinion>
+        </bookReview>
+    </book>
+</readingList>

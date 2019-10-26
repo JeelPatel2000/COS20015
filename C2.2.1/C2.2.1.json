@@ -1,0 +1,65 @@
+{
+	"readingList": [{
+			"title": "Fifty Shades of Grey",
+			"author": "E.L. James",
+			"bookRead": {
+				"read": "yes",
+				"month": "May",
+				"year": 2016
+			},
+			"bookReview": {
+				"purpose": "",
+				"opinion": "Did not like very much"
+			}
+		},
+		{
+			"title": "The grass is singing",
+			"author": "Doris Lessign",
+			"bookRead": {
+				"read": "yes",
+				"month": "June",
+				"year": 2016
+			},
+			"bookReview": {
+				"purpose": "",
+				"opinion": "Enjoyed it quite bit"
+			}
+		},
+		{
+			"title": "A short history of nearly everything",
+			"author": "Bill Bryson",
+			"bookRead": {
+				"read": "yes",
+				"month": "July",
+				"year": 2016
+			},
+			"bookReview": {
+				"purpose": "",
+				"opinion": "Very Informative"
+			}
+		},
+		{
+			"title": "JSON in 24 hours",
+			"author": "Peter Settler",
+			"bookRead": {
+				"read": "no"
+			},
+			"bookReview": {
+				"purpose": "For Work",
+				"opinion": ""
+			}
+		},
+		{
+			"title": "Miss Smilla's feelings for snow",
+			"author": "Peter Hoeg's",
+			"bookRead": {
+				"read": "no"
+			},
+			"bookReview": {
+				"purpose": "For Entertainment",
+				"opinion": ""
+			}
+		}
+
+	]
+}
